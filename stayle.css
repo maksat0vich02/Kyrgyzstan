@@ -1,0 +1,77 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+button {
+  border: none;
+}
+
+.kyrgyztan {
+  position: relative;
+}
+/* OBLAST */
+.one {
+  position: absolute;
+  top: 95px;
+  left: 710px;
+  font-size: 50px;
+  color: white;
+}
+.two {
+  position: absolute;
+  top: 132px;
+  left: 520px;
+  font-size: 50px;
+  color: white;
+}
+.three {
+  position: absolute;
+  top: 335px;
+  left: 553px;
+  font-size: 50px;
+  color: white;
+}
+.four {
+  position: absolute;
+  font-size: 50px;
+  bottom: 86px;
+  left: 520px;
+  color: white;
+}
+.five {
+  position: absolute;
+  font-size: 50px;
+  bottom: 223px;
+  right: 292px;
+  color: white;
+}
+.six {
+  position: absolute;
+  font-size: 50px;
+  top: 138px;
+  right: 93px;
+  color: white;
+}
+.seven {
+  position: absolute;
+  font-size: 50px;
+  top: 136px;
+  left: 816px;
+  color: white;
+}
+.eight {
+  position: absolute;
+  font-size: 50px;
+  left: 235px;
+  bottom: 36px;
+  color: white;
+}
+/* OBLAST */
